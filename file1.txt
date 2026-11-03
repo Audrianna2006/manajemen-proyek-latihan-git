@@ -2,4 +2,6 @@ File pertama
 
 tugas praktik github
 
-edit file melalui github
+edit file melalui GitHub
+
+edit file1 di lokal
